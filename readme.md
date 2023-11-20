@@ -1,5 +1,4 @@
 # Submission Web Dasar
 
-## what is this project ?
-
-### s
+## Description
+Oh hai, welcome to this project. this project base on html, css and a little bit 
